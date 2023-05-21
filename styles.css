@@ -3,6 +3,15 @@ img {
     width:300px;
 }
 
+#title {
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#main {
+    background-color: rgb(248, 239, 156);
+}
+
 #italianchickenmarinade {
     background-color: rgb(244, 189, 153);
     padding: 10px;
@@ -14,7 +23,7 @@ img {
 }
 
 #bangbangchickenburger {
-    background-color: bisque;
+    background-color:bisque;
     padding: 15px;
 }
 
